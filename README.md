@@ -1,5 +1,4 @@
 # vue-abstract-component
-# 配置见文档 https://juejin.im/post/5cda1ccd5188257ae8372d1b
 
 ## Project setup
 ```
